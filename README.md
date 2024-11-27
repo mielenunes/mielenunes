@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mielenunes
+- 👋 Hi, I’m Miele Nunes
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning ...
 
