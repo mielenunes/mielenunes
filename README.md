@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miele Nunes
-- 👀 I’m interested in computer programming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
 
 
