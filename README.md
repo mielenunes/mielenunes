@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Miele Nunes
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
+👋 Olá, sou Miele Nunes
+👀 Estou interessado em programação
+🌱 Atualmente estou aprendendo...
 
 
 <!---
